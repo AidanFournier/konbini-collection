@@ -1,3 +1,11 @@
+# Konbini Collection
+A collection of weird and wonderful snacks found in konbinis (convenience stores) across Japan.
+
+![Under-Construction-Sign](https://user-images.githubusercontent.com/78288118/229713060-789d01e3-6bab-40c1-acb4-1db94aad5a2d.png)
+
+## Credits
+This project was bootstrapped with [sample-react-act](https://github.com/WWCodeTokyo/sample-react-app):
+
 # sample-react-app
 
 Here's a basic React App to help you build a website quickly
